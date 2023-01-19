@@ -1,6 +1,6 @@
 # Sea-Turtle-face-recognition
 ## Overview
-This project is a classification model that is trained to recognize turtles. The dataset used for training and testing is composed of 1118 images of turtles. The model used in this project is the SwinTransformer which is a variation of the transformer architecture. The dataset is divided into 99 classes, each class representing a different turtle species.
+This project is a classification model that is trained to recognize turtles. The dataset used for training and testing is composed of 1118 images of turtles. The model used in this project is the SwinTransformer which is a variation of the transformer architecture. The dataset is divided into 99 classes, each class representing a different turtle.
 ## Results
 The model achieved an accuracy of 49% on the test data and 100% on the training data. However, due to the limited size of the dataset, more work is needed to improve the performance of the model.
 ## Notes
